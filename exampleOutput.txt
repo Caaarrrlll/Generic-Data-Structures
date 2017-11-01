@@ -54,6 +54,8 @@ Circular + doubly:
 invalid index
 No element found
 
+cout << "A lot of extra stuff here because testing\n";
+
 ..::[ Stack Testing ]::..
 
 LinkedList stack: [1,3,5,7,9]
