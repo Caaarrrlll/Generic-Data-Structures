@@ -1,6 +1,4 @@
 //Provide the implementation for the PriorityQueue class in this file.
-//u14177553 Francois Venter
-
 #include <iostream>
 
 using namespace std;
