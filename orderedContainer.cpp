@@ -1,6 +1,4 @@
 // Implement non-pure virtual functions of OrderedContainer here
-//u14177553 Francois Venter
-
 #include <iostream>
 #include <typeinfo>
 
